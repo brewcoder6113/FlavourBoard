@@ -1,0 +1,37 @@
+.DetailWrapper{
+margin-top:10rem;
+margin-bottom:5rem;
+display:flex;
+}
+.DetailWrapper .active{
+    background:linear-gradient(35deg,#494949,#313131);
+    color:white;
+}
+.DetailWrapper img{
+    width:400px;
+    height:auto;
+    border-radius: 14px;
+}
+.DetailWrapper h2{
+    margin-bottom:2rem;
+}
+.DetailWrapper li{
+    font-size:1.2rem;
+    line-height:2.5rem;
+}
+.DetailWrapper ul{
+    margin-top:2rem;
+}
+.Button{
+padding:1rem 2rem;
+color:#313131;
+background:white;
+border:2px solid black;
+margin-right:2rem;
+font-weight:600;
+}
+.Info
+{
+margin-left:10rem;
+font-family:sans-serif;
+}

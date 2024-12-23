@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif,'Times New Roman', Times, serif;
+}
+body{
+    margin: 0% 5%;
+    background-color: rgb(166, 209, 168);
+}
+h4{
+    font-size: 1rem;
+    color: rgb(56, 56, 56);
+}
+h3{
+    font-size: 1.5rem;
+    color: rgb(16, 4, 4);
+    line-height: 2.5rem;
+    margin: 2rem 0rem;
+    font-family: 'Times New Roman';
+}
+a{
+    color: rgb(56, 56, 56);
+}
+.form-control {
+    width: 300px; /* Adjust the width to your desired value */
+  }
+.navbar{
+    background-color: brown;
+}
